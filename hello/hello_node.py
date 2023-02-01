@@ -1,4 +1,4 @@
-import rclpy                                     # ROS2のPythonモジュールをインポートする
+import rclpy                    # ROS2のPythonモジュールをインポートする
 from rclpy.node import Node  # rclpy.nodeモジュールからNodeクラスをインポート
 
 def todo(): # 実行したい処理の関数
